@@ -9,6 +9,8 @@ let f = {
     nickname:"Queen",
     age:"20"
 }
+let g = undefined
+let i = null
 
-console.table([a,b,c,d,e,f])
-console.table([typeof(a),typeof(b),typeof(c),typeof(d),typeof(e),typeof(f)])
+console.table([a,b,c,d,e,f,g,i])
+console.table([typeof(a),typeof(b),typeof(c),typeof(d),typeof(e),typeof(f),typeof(g),typeof(i)])
