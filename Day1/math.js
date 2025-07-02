@@ -1,0 +1,7 @@
+// console.log(Math.floor(Math.random()*10))
+console.log(Math.min(8,20,28,95,847))
+console.log(Math.pow(3,4))
+console.log(Math.abs(-1))
+console.log(Math.floor(7.59465464))
+console.log(Math.round(7.4))
+console.log(Math.floor(Math.random()*100))
